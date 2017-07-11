@@ -1,0 +1,22 @@
+#divPend {
+     padding: 20px;
+     margin-top: 40px;
+     margin-left: 40px;
+     background-color: white;
+     width: 300px;
+	 float: left;
+}
+body {
+	 background: #ccc;
+}
+li {
+	/*font-weight: bold;*/
+	font-family: Arial 14px;
+	/*color: grey;*/
+	padding: 1px;
+	border-bottom: 1px solid DeepSkyBlue;
+	list-style: none;
+	margin-right: 40px;
+}
+h1 { text-align: center; }
+form { margin-left: 67px;}
